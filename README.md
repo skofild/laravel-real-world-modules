@@ -61,9 +61,9 @@
 ---
 
 ## 📁 Примеры кода
-1. `BonusController.php` - Логика операций с бонусами
-2. `OpenAiService.php` - Сервис для работы с OpenAI API
-3. `User.php` - Метод `accessibleUserIds()` для ролевого доступа
+1. `/src/1_hr_portal/BonusController.php` — логика бонусной системы
+2. `/src/2_ai_comparison/OpenAiService.php` — интеграция с OpenAI
+3. `/src/3_access_system/User.php` — метод каскадного доступа
 
 ---
 
